@@ -14,7 +14,7 @@ import Editor from './components/Editor';
 const App = () => {
   
   return ( 
-    <BrowserRouter>
+    <BrowserRouter basename='/StudyBuddies-CodeWarriors/'>
       <Routes>
       <Route index element={<Home/>}/>
       <Route path='classes' element={<Classes/>}/>
