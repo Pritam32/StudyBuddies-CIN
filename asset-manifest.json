@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/StudyBuddies-CIN/static/css/main.450bd61d.css",
-    "main.js": "/StudyBuddies-CIN/static/js/main.941dfcf4.js",
+    "main.js": "/StudyBuddies-CIN/static/js/main.ec82ecb3.js",
     "static/js/266.6b0f7129.chunk.js": "/StudyBuddies-CIN/static/js/266.6b0f7129.chunk.js",
     "static/js/4450.5aeaa026.chunk.js": "/StudyBuddies-CIN/static/js/4450.5aeaa026.chunk.js",
     "static/js/8849.a2fa4439.chunk.js": "/StudyBuddies-CIN/static/js/8849.a2fa4439.chunk.js",
@@ -59,11 +59,11 @@
     "static/js/787.6cb6f327.chunk.js": "/StudyBuddies-CIN/static/js/787.6cb6f327.chunk.js",
     "index.html": "/StudyBuddies-CIN/index.html",
     "main.450bd61d.css.map": "/StudyBuddies-CIN/static/css/main.450bd61d.css.map",
-    "main.941dfcf4.js.map": "/StudyBuddies-CIN/static/js/main.941dfcf4.js.map",
+    "main.ec82ecb3.js.map": "/StudyBuddies-CIN/static/js/main.ec82ecb3.js.map",
     "787.6cb6f327.chunk.js.map": "/StudyBuddies-CIN/static/js/787.6cb6f327.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.450bd61d.css",
-    "static/js/main.941dfcf4.js"
+    "static/js/main.ec82ecb3.js"
   ]
 }
